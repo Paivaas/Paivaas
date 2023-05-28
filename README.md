@@ -5,4 +5,4 @@
 </div>
 
 <a heaf="https://Paivass">
-  <img height="180cm" src="https://github-readme-status.vercel.app/api?usrename=Paivaas%show_icons=true&yheme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-status.vercel.app/api?usrename=Paivaas%show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
