@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  </div>
-
+>
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
