@@ -1,6 +1,5 @@
 # !
 
-<img src="https://media.tenor.com/dFRmjNDK9TwAAAAC/ghibli.gif">
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
@@ -27,6 +26,10 @@
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+  
+  
+  <div><img src="https://miro.medium.com/v2/resize:fit:498/0*i4y9lkuk3x2Wp68C.gif"></div>
+  
   
 <div align="center">
    <img src="https://github.com/Paivaas/Paivaas/blob/output/github-contribution-grid-snake.svg">
