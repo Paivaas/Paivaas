@@ -28,7 +28,7 @@
 </div>
   
   
-  <div align="center"><img height="80em" src="https://miro.medium.com/v2/resize:fit:498/0*i4y9lkuk3x2Wp68C.gif"></div>
+  <div align="center"><img height="180em" src="https://miro.medium.com/v2/resize:fit:498/0*i4y9lkuk3x2Wp68C.gif"></div>
   
   
 <div align="center">
