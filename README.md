@@ -1,5 +1,9 @@
 # !
 
+<a href="https://github.com/devicons/devicon/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devicons/devicon?color=%2360be86&style=for-the-badge">
+    </a>
+
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=material-palenight&include_all_comits=true&count_private=true"/>
