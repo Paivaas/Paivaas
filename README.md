@@ -1,6 +1,6 @@
 # !
 
-<img src="https://media.tenor.com/dFRmjNDK9TwAAAAC/ghibli.gif" width="90px">
+<img src="https://media.tenor.com/dFRmjNDK9TwAAAAC/ghibli.gif">
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
