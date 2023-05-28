@@ -1,9 +1,5 @@
 # !
-<div style="display: inline_block" align="center">
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
@@ -23,6 +19,11 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  </div>
   
+ <div style="display: inline_block" align="center">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+ <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
   
 <div align="center">
    <img src="https://github.com/Paivaas/Paivaas/blob/output/github-contribution-grid-snake.svg">
