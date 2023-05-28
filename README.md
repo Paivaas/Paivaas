@@ -1,6 +1,6 @@
 # !
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
