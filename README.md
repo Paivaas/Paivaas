@@ -1,6 +1,6 @@
 # !
 
-<div>
+<div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=material-palenight&include_all_comits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout-compact&langs_count=16&theme=material-palenight"/>
