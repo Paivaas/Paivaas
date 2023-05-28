@@ -1,8 +1,6 @@
 # !
 
-<a href="https://github.com/devicons/devicon/graphs/contributors">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devicons/devicon?color=%2360be86&style=for-the-badge">
-    </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
 <div style="display: inline_block" align="center">
 <a href="https://github.com/paivaas">
