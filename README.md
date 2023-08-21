@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/HTML-dc6edf?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-dc6edf?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-dc6edf?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-dc6edf?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-dc6edf?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-dc6edf?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-dc6edf?style=for-the-badge&logo=amazon-aws&logoColor=white">
