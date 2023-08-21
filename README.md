@@ -1,5 +1,6 @@
 
-![Design sem nome](https://github.com/Paivaas/Paivaas/assets/123731976/c7c26123-31de-4da9-a617-7a59d95fc171)
+![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/b12548e2-f91a-4ed5-a399-51ee2c26721a)
+
 
 <div align="center">
 
