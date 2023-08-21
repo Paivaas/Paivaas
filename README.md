@@ -5,8 +5,8 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout=compact&langs_count=10&theme=panda"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout=compact&langs_count=10&theme=panda"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
