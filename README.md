@@ -1,4 +1,4 @@
-![Inserir um subtítulo]  (https://github.com/Paivaas/Paivaas/assets/123731976/a1916654-a62a-4fbc-a30f-1dcde971045e)
+![Inserir um subtítulo](https://github.com/Paivaas/Paivaas/assets/123731976/a1916654-a62a-4fbc-a30f-1dcde971045e)
 
 <div align="center">
 
