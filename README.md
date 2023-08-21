@@ -9,7 +9,6 @@
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
--------------
 
 <div align="center">
 
@@ -22,6 +21,8 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
 </div>
+
+-------------
   
   
 <div align="center">
