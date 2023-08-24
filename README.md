@@ -1,14 +1,10 @@
 
 ![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/b12548e2-f91a-4ed5-a399-51ee2c26721a)
 
- **Cursando Desenvolvimento de sistemas no SENAI Jandira.**
-
-
 <div align="center">
+   **Cursando Desenvolvimento de sistemas no SENAI Jandira.**
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout=compact&langs_count=10&theme=prussian"/>
-
-
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
