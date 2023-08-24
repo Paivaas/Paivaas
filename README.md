@@ -5,7 +5,8 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout=compact&langs_count=10&theme=prussian"/>
-  
+
+  ### **Cursando Desenvolvimento de sistemas no SENAI Jandira.**
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
