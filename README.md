@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=shadow_red" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=shadow_blue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=slateorange" />
   </a>
 </div>
 
