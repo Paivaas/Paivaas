@@ -1,5 +1,12 @@
 
 ![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/b12548e2-f91a-4ed5-a399-51ee2c26721a)
+<div align="center">
+  <a href="https://github.com/Paivaas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paivaas&theme=prussian" />
+  </a>
+  
+  </div>
+
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
