@@ -16,10 +16,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Paivaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paivaas&theme=shadow_blue" />
-  </a>
-  
+  <a href="https://github.com/dawidolko">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=shadow_blue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=shadow_blue" />
+  </a>shadow_blue
 </div>
 
 
