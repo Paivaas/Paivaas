@@ -15,9 +15,10 @@
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivaas&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaas&layout=compact&langs_count=10&theme=prussian"/>
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  <a href="https://github.com/dawidolko">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=prussian" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=prussian" />
+  </a>
 </div>
 
 
