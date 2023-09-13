@@ -5,7 +5,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paivaas&theme=prussian" />
   </a>
   
-  </div>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paivaas&langs_count=8&theme=prussian" alt="Language stats.">
+</div>
 
 
 <div align="center">
