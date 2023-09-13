@@ -3,21 +3,21 @@
 
 <div align="center">
   <a href="https://github.com/Paivaas">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=prussian&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_red&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
 
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=prussian" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=prussian" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=shadow_red" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=shadow_red" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Paivaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paivaas&theme=prussian" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paivaas&theme=shadow_red" />
   </a>
   
 </div>
