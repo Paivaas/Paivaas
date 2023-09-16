@@ -28,8 +28,6 @@
 
 </div>
 
-
-<img src='https://usagif.com/wp-content/uploads/cat-typing-8.gif'>
 -------------
   
 
