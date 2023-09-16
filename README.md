@@ -1,7 +1,9 @@
 
 ![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/327fe78b-edb2-4a42-bc0b-4e939db97a0d)
 
+
 <div align="center">
+  ━━━━━━ • ✿ • ━━━━━━
   <a href="https://github.com/Paivaas">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_blue&hide_border=true&exclude_days=Sun" />
   </a>
