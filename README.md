@@ -1,5 +1,6 @@
 
 ![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/b12548e2-f91a-4ed5-a399-51ee2c26721a)
+![cat-typing-8](https://github.com/Paivaas/Paivaas/assets/123731976/a4767ab6-069d-4ad0-bdde-93298b781891)
 
 <div align="center">
   <a href="https://github.com/Paivaas">
