@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-84B0B8?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-84B0B8?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-84B0B8?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Java-84B0B8?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-84B0B8?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-84B0B8?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Azure-84B0B8?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-0579C3?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-0579C3?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-0579C3?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-0579C3?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-0579C3?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-0579C3?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0579C3?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
 </div>
 
