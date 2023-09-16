@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Paivaas">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_green&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_blue&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
