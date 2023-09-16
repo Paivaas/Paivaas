@@ -1,5 +1,4 @@
-
-![BEM VINDO! (3)](https://github.com/Paivaas/Paivaas/assets/123731976/80c69259-b492-4280-a5dc-67e6e00a8422)
+![BEM VINDO!](https://github.com/Paivaas/Paivaas/assets/123731976/e5cf9a17-8248-4c50-bd1a-1740fb790659)
 
 <div align="center">
   <a href="https://github.com/Paivaas">
