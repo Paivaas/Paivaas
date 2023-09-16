@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/Paivaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=shadow_green" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=shadow_green" />
   </a>
 </div>
