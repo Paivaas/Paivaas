@@ -9,8 +9,7 @@
 <div align="center">
   <a href="https://github.com/Paivaas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language username=Paivaas&theme=transparent" />
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=transparent&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
 
