@@ -9,7 +9,6 @@
 <div align="center">
   <a href="https://github.com/Paivaas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paivaas&layout=compact&hide_border=true&title_color=0579C3&text_color=0579C3&bg_color=0579C3" />
   </a>
 </div>
 
