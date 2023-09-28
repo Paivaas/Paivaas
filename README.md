@@ -1,7 +1,7 @@
 ![BEM VINDO! (2)](https://github.com/Paivaas/Paivaas/assets/123731976/4ff7afad-5a47-4906-b9f8-549be7159eb6)
 
-![GitHub Estrelas](https://img.shields.io/github/stars/seu-usuario?style=social)
-![GitHub Último Commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=green)
+
 <div align="center">
   <a href="https://github.com/Paivaas">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_blue&hide_border=true&exclude_days=Sun" />
