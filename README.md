@@ -22,8 +22,9 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0579C3?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paivaas}/count.svg" /></p> 
-<br></div>
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paivaas}/count.svg" /></p> 
+  <br>
+  </div>
 
 -------------
