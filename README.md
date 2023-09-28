@@ -28,7 +28,3 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paivaas}/count.svg" /></p> 
   <br>
   </div>
-
--------------
-
-  ![Snake animation](https://github.com/Paivaas/Paivaas/blob/output/github-contribution-grid-snake.svg)
