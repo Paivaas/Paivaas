@@ -4,13 +4,11 @@
   <a href="https://github.com/Paivaas">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=shadow_blue&hide_border=true&exclude_days=Sun" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Paivaas">
+   <a href="https://github.com/Paivaas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
   </a>
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paivaas&bg_color=00000&color=0579C3&line=0579C3&point=0579C3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
