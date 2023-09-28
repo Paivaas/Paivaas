@@ -11,6 +11,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
   </a>
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paivaas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-0579C3?style=for-the-badge&logo=html5&logoColor=white">
