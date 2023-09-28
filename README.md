@@ -1,6 +1,6 @@
 ![BEM VINDO! (2)](https://github.com/Paivaas/Paivaas/assets/123731976/4ff7afad-5a47-4906-b9f8-549be7159eb6)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=green)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Paivaas&layout=compact&theme=green)
 
 <div align="center">
   <a href="https://github.com/Paivaas">
