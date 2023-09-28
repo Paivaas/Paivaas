@@ -11,9 +11,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
   </a>
 </div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paivaas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=f1459b&icon_color=f1459b&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=f1459b&text_color=A020F0&bg_color=0d1117" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-0579C3?style=for-the-badge&logo=html5&logoColor=white">
