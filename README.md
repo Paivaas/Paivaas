@@ -9,13 +9,10 @@
 <div align="center">
   <a href="https://github.com/Paivaas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paivaas&layout=compact&hide_border=true&title_color=f1459b&text_color=A020F0&bg_color=0d1117" />
   </a>
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=f1459b&icon_color=f1459b&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=f1459b&text_color=A020F0&bg_color=0d1117" />
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-0579C3?style=for-the-badge&logo=html5&logoColor=white">
