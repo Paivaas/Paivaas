@@ -30,8 +30,3 @@
 
 
 
-<div align="center">
-  <br>
-    <p color=0579C3 align="center"><img align="center" src="https://profile-counter.glitch.me/{Paivaas}/count.svg" /></p> 
-  <br>
-</div>
