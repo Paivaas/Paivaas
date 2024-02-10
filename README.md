@@ -22,10 +22,3 @@
 
 ![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/ac0076c8-0a0a-4bfb-8c1c-0aa9390dc4c3)
 
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=dracula" />
-   <a href="https://github.com/Paivaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=dracula" />
-  </a>
-</div>
