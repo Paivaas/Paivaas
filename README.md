@@ -1,5 +1,5 @@
 <div height="40px">
-   <img src="https://images-cdn.exchange.art/ipfs/bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq?ext=gif&width=500&optimize=high&format=pjpg&auto=webp" height="50px">
+   <img src="https://images-cdn.exchange.art/ipfs/bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq?ext=gif&width=500&optimize=high&format=pjpg&auto=webp" height="200px">
 </div>
 
 <div align="center">
