@@ -1,4 +1,5 @@
-<img scr="https://images-cdn.exchange.art/ipfs/bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq?ext=gif&width=500&optimize=high&format=pjpg&auto=webp">
+
+![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/d94771af-d52e-4c6e-841e-de898f182164)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
