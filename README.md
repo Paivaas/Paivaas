@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Java-0579C3?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-0579C3?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-0579C3?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0579C3?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-ff69b4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 
 
