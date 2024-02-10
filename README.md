@@ -7,13 +7,6 @@
  
 </div>
 
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=onmi" />
-   <a href="https://github.com/Paivaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=ambient_gradient" />
-  </a>
-</div>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paivaas&bg_color=00000&color=ffcbdb&line=ff69b4&point=ffcbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,5 +21,9 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-ff69b4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 
-
-
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=dracula" />
+   <a href="https://github.com/Paivaas">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=dracula" />
+  </a>
+</div>
