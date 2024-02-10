@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paivaas&theme=pink" />
    <a href="https://github.com/Paivaas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paivaas&theme=transparent" />
   </a>
