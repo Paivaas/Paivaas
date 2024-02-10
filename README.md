@@ -1,5 +1,6 @@
-
-![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/d94771af-d52e-4c6e-841e-de898f182164)
+<div height="40px">
+![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/ae8dd6ff-9c50-4bfd-9d23-cbe5d77ba37c)
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
