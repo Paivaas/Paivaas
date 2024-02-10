@@ -1,5 +1,5 @@
 <div height="40px">
-![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/ae8dd6ff-9c50-4bfd-9d23-cbe5d77ba37c)
+   <img src="https://images-cdn.exchange.art/ipfs/bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq?ext=gif&width=500&optimize=high&format=pjpg&auto=webp">
 </div>
 
 <div align="center">
