@@ -1,12 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/Paivaas">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=ambient_gradient&hide_border=true&exclude_days=Sun" />
-  </a>
-    <a href="https://github.com/Paivaas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paivaas&layout=compact&langs_count=6&theme=tokyonight"/> 
-  </a>
-</div>
 
 
 <div align="center">  
