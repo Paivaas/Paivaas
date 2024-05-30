@@ -9,6 +9,16 @@
 </div>
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=3652b5&icon_color=3652b59&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=3652b5&text_color=3652b5&bg_color=0d1117" />
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
