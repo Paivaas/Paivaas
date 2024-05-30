@@ -2,10 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Julia+Paiva+;Faço+o+Curso+De+Desenvolvimento+de+Sistemas+No+Senai;Seja+Bem-vindo+✿;%29)](https://git.io/typing-svg)
 
 
-![flor](https://github.com/Paivaas/Paivaas/assets/123731976/647c73f7-6499-448f-ba55-afc3b95e3d42)
-
-
-
 ![tumblr_5ec4ba4d54d7e0d6e371ab0df2f1b41d_5f9c3c74_1280](https://github.com/Paivaas/Paivaas/assets/123731976/26516910-70db-4910-b55e-a872591ab7b4)
 
 <div align="center">
