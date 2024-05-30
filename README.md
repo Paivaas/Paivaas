@@ -1,7 +1,8 @@
 <div align="center">  
-  ![deohoc8-30e0543d-c94d-49d8-b441-f37195b13ea6](https://github.com/Paivaas/Paivaas/assets/123731976/58e880db-d853-44e7-b124-d443c9677c40)
+![deohoc8-30e0543d-c94d-49d8-b441-f37195b13ea6](https://github.com/Paivaas/Paivaas/assets/123731976/de1c70d5-fa52-43da-abbc-e74800f9ea1e)
 
 </div>
+
 
 <div align="center">  
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Paivaas&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=5656CD"/> 
