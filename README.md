@@ -1,6 +1,4 @@
 
-![deohoc8-30e0543d-c94d-49d8-b441-f37195b13ea6](https://github.com/Paivaas/Paivaas/assets/123731976/ef49ed25-e26c-4407-aa17-98e98178b8d5)
-![tumblr_15885ecef9aa7cead7d646af8958c6e8_5c86ecfd_1280](https://github.com/Paivaas/Paivaas/assets/123731976/c7806d86-cb55-4502-b2f8-f5b7415e8e69)
 
 ![tumblr_57adab7dbdd8230fd09bd74799c87005_eaeba598_1280](https://github.com/Paivaas/Paivaas/assets/123731976/e9017f96-646b-4d96-b3cf-528ff8150776)
 
