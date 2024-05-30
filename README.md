@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3652b5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Julia+Paiva+;eu+tenho+17+Anos;Faço+o+Curso+De+Desenvolvimento+de+Sistemas+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 ![tumblr_5ec4ba4d54d7e0d6e371ab0df2f1b41d_5f9c3c74_1280](https://github.com/Paivaas/Paivaas/assets/123731976/26516910-70db-4910-b55e-a872591ab7b4)
 
 <div align="center">  
