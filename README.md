@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Julia+Paiva+;Eu+tenho+17+Anos;Faço+o+Curso+De+Desenvolvimento+de+Sistemas+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Julia+Paiva+;Faço+o+Curso+De+Desenvolvimento+de+Sistemas+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 ![tumblr_5ec4ba4d54d7e0d6e371ab0df2f1b41d_5f9c3c74_1280](https://github.com/Paivaas/Paivaas/assets/123731976/26516910-70db-4910-b55e-a872591ab7b4)
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paivaas&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Paivaas&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=5656CD"/> 
