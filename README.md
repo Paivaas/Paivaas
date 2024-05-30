@@ -18,15 +18,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <div align="center">
- 
-  
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
+![image](https://github.com/Paivaas/Paivaas/assets/123731976/409d8304-51e4-4823-bf9f-d814a56ec130)
 
 ![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/ac0076c8-0a0a-4bfb-8c1c-0aa9390dc4c3)
