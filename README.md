@@ -1,7 +1,5 @@
-<div align="center">  
-![deohoc8-30e0543d-c94d-49d8-b441-f37195b13ea6](https://github.com/Paivaas/Paivaas/assets/123731976/de1c70d5-fa52-43da-abbc-e74800f9ea1e)
 
-</div>
+![deohoc8-30e0543d-c94d-49d8-b441-f37195b13ea6](https://github.com/Paivaas/Paivaas/assets/123731976/ef49ed25-e26c-4407-aa17-98e98178b8d5)
 
 
 <div align="center">  
