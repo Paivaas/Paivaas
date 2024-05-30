@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paivaas&show_icons=true&count_private=true&hide_border=true&title_color=3652b5&icon_color=3652b59&text_color=c9d1d9&bg_color=0d1117"'s status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paivaas&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=0d1117"'s status" /> 
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=ambient_gradient&hide_border=true&exclude_days=Sun" />
 </div>
 
