@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">  
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Paivaas&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=5656CD"/> 
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=Paivaas&theme=ambient_gradient&hide_border=true&exclude_days=Sun" />
