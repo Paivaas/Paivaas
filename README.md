@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Canva-ff69b4?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-ff69b4?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ff69b4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  
 </div>
 
 ![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/Paivaas/Paivaas/assets/123731976/ac0076c8-0a0a-4bfb-8c1c-0aa9390dc4c3)
