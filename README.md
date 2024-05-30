@@ -19,6 +19,7 @@
 </div>
 <div align="center">
 
+![200w](https://github.com/Paivaas/Paivaas/assets/123731976/b7c2acaf-8b00-4e84-88c2-9a2f6818939c)
 
 ![image](https://github.com/Paivaas/Paivaas/assets/123731976/409d8304-51e4-4823-bf9f-d814a56ec130)
 
