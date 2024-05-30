@@ -1,4 +1,3 @@
-![tumblr_57adab7dbdd8230fd09bd74799c87005_eaeba598_1280](https://github.com/Paivaas/Paivaas/assets/123731976/e9017f96-646b-4d96-b3cf-528ff8150776)
 ![tumblr_5ec4ba4d54d7e0d6e371ab0df2f1b41d_5f9c3c74_1280](https://github.com/Paivaas/Paivaas/assets/123731976/26516910-70db-4910-b55e-a872591ab7b4)
 
 <div align="center">  
