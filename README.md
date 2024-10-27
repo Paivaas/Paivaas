@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Julia+Paiva+;Faço+o+Curso+De+Desenvolvimento+de+Sistemas+No+Senai;Seja+Bem-vindo+✿;%29)](https://git.io/typing-svg)
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-ff69b4?&style=for-the-badge&logo=css3&logoColor=white">
